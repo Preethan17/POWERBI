@@ -1,4 +1,6 @@
 1] SALES DASHBOARD ANALYSIS AND FORECASTING
+
+
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 - Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
 - Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
