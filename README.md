@@ -17,6 +17,8 @@ To contribute to the success of a business by utilizing data analysis techniques
 - Used Power Query to transform the data into a suitable format for further analysis.
 
 4] CUSTOMER CHURN ANALYSIS
+
+
 Bank Customer Churn dataset is analyzed to go through the end-to-end process of developing and publishing the Customer Churn Analysis report in Power BI, including the following steps:
 1. Data Connection
 2. Data Preparation
